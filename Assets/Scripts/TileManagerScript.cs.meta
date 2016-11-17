@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 914d3713c3fdbef42a08ee889b565016
+timeCreated: 1476563618
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - panelPrefab: {fileID: 1000013376199866, guid: 67376337d81f5c54b8a1785b4b35404d,
+      type: 2}
+  - currentPanel: {fileID: 1000013376199866, guid: 67376337d81f5c54b8a1785b4b35404d,
+      type: 2}
+  - rightWallPrefab: {fileID: 1000013628808750, guid: c7113e614f9be6b4da130520373f85a7,
+      type: 2}
+  - leftWallPrefab: {fileID: 1000010341718654, guid: f875934cb86e1fd419d767ed245955ad,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
